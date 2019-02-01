@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<device>
+  <deviceName>人感センサ</deviceName>
+  <confidentiality>2.5</confidentiality>
+  <recovery>4.66666666666667</recovery>
+  <maintainability>5</maintainability>
+  <modularity>4</modularity>
+</device>

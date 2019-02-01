@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<inputData>
+    <functionLists>
+        <function>
+            <functionName>温度データ取得・保存機能</functionName>
+            <component>温度データ取得処理</component>
+            <component>温度データ整形処理</component>
+            <component>熱中症判定処理</component>
+        </function>   
+    </functionLists>    
+</inputData>

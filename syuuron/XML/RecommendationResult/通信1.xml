@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recommendList>
+  <targetCommunicationName>通信1</targetCommunicationName>
+  <type>communication</type>
+  <recommendCommunicationList>
+    <recommendCommunication>
+      <name>Bluetooth_Low_Energy</name>
+      <type>近距離低速通信</type>
+      <frequency>2.4Ghz</frequency>
+      <distance>2.5~50m</distance>
+      <speed>10kbps</speed>
+      <topology>メッシュ</topology>
+      <connections>制約なし</connections>
+      <powerSaving>1</powerSaving>
+      <remarks>消費電力を変える事により,通信距離と速度を変更できる</remarks>
+    </recommendCommunication>
+    <recommendCommunication>
+      <name>Z-Wave</name>
+      <type>近距離低速通信</type>
+      <frequency>920MHz</frequency>
+      <distance>約100m</distance>
+      <speed>40kbps</speed>
+      <topology>メッシュ</topology>
+      <connections>232</connections>
+      <powerSaving>1</powerSaving>
+      <remarks>なし</remarks>
+    </recommendCommunication>
+    <recommendCommunication>
+      <name>ZigBee</name>
+      <type>近距離低速通信</type>
+      <frequency>2.4GHz</frequency>
+      <distance>約100m</distance>
+      <speed>250kbps</speed>
+      <topology>メッシュ</topology>
+      <connections>65535</connections>
+      <powerSaving>1</powerSaving>
+      <remarks>なし</remarks>
+    </recommendCommunication>
+  </recommendCommunicationList>
+</recommendList>

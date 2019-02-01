@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>ZigBee</name>
+  <type>近距離低速通信</type>
+  <distance>約100m</distance>
+  <frequency>2.4GHz</frequency>
+  <speed>250kbps</speed>
+  <roaming>False</roaming>
+  <topology>メッシュ</topology>
+  <connections>65535</connections>        
+  <powersaving>5</powersaving>
+  <remarks>なし</remarks>
+</communication>

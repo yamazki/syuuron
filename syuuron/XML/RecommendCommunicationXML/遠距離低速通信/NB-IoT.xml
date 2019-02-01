@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>NB-IoT</name>
+  <type>遠距離低速通信</type>
+  <distance>最大40km</distance>
+  <frequency>920MHz</frequency>
+  <speed>60kbps</speed>
+  <roaming>True</roaming>
+  <topology>スター</topology>
+  <connections>不明</connections>      
+  <powersaving>5</powersaving>
+  <remarks>なし</remarks>  
+</communication>

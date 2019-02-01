@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>LoRa</name>
+  <type>遠距離低速通信</type>
+  <distance>最大50km</distance>
+  <frequency>920MHz</frequency>
+  <speed>1bps</speed>
+  <roaming>True</roaming>
+  <topology>スター</topology>
+  <connections>8</connections>      
+  <powersaving>5</powersaving>
+  <remarks>通信は上り(送信)のみ</remarks>  
+</communication>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recommendList>
+  <targetDeviceName>アラーム</targetDeviceName>
+  <type>device</type>
+  <recommendDeviceList>
+    <recommendDevice>
+      <name>Raspberry_pi_3_model</name>
+      <cpu>1.4GHz</cpu>
+      <memory>1GB</memory>
+      <disk>sdカードの容量により変化</disk>
+      <remarks>なし</remarks>
+    </recommendDevice>
+  </recommendDeviceList>
+</recommendList>

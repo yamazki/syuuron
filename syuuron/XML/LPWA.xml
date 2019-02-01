@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recommendCommunicationList>
+  <targetCommunicationName>LPWA</targetCommunicationName>
+  <recommendCommunication>
+    <name>ZigBee</name>
+    <distance>1</distance>
+    <speed>1</speed>
+    <powerSaving>10</powerSaving>
+  </recommendCommunication>
+</recommendCommunicationList>

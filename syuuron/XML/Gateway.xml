@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<device>
+  <deviceName>Gateway</deviceName>
+  <confidentiality>1</confidentiality>
+  <recovery>1</recovery>
+</device>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quality>
+  <confidentiality>2.78571428571429</confidentiality>
+  <recovery>4.66666666666667</recovery>
+  <modularity>4.28571428571429</modularity>
+  <maintainability>4.71428571428571</maintainability>
+</quality>

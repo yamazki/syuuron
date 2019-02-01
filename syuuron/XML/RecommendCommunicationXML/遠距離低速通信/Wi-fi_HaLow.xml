@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>Wi-Fi HaLow(IEEE802.11ah)</name>
+  <type>遠距離低速通信</type>
+  <distance>最大1km</distance>
+  <frequency>920MHz</frequency>
+  <speed>150kbps〜3.3Mbps</speed>
+  <roaming>True</roaming>
+  <topology>スター</topology>
+  <connections>8000</connections>      
+  <powersaving>5</powersaving>
+  <remarks>IP通信が可能,現在日本で使用不可</remarks>  
+</communication>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>Wi-Fi(IEEE802.11ac)</name>
+  <type>近距離高速通信</type>
+  <distance>約10m</distance>
+  <frequency>5GHz</frequency>
+  <speed>433Mbps</speed>
+  <roaming>True</roaming>
+  <topology>スター</topology>
+  <connections>10(機器により異なる)</connections>      
+  <powersaving>2</powersaving>
+  <remarks>アンテナの数により通信速度が変化(1本では433Mbps,2本では867Mbps...)</remarks>  
+</communication>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>Bluetooth_Low_Energy</name>
+  <type>近距離低速通信</type>
+  <distance>2.5~50m</distance>
+  <frequency>2.4Ghz</frequency>
+  <speed>10kbps</speed>
+  <roaming>False</roaming>
+  <topology>メッシュ</topology>
+  <connections>制約なし</connections>      
+  <powersaving>5</powersaving>
+  <remarks>消費電力を変える事により,通信距離と速度を変更できる</remarks>  
+</communication>    

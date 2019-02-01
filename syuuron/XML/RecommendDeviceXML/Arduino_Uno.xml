@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<device>
+  <name>Arduino_Uno</name>
+  <memory>2KB</memory>
+  <cpu>16MHz</cpu>
+  <disk>32KB</disk>  
+  <remarks>なし</remarks>
+</device>

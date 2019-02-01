@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<function>
+  <functionName>画像データ保存機能</functionName>
+  <processList>
+    <process>
+      <name>温度データ取得</name>
+      <processingTime>64</processingTime>
+    </process>
+    <process>
+      <name>ZigBee</name>
+      <processingTime>4.05</processingTime>
+    </process>
+    <process>
+      <name>LTE</name>
+      <processingTime>1.075</processingTime>
+    </process>
+    <process>
+      <name>画像データ保存</name>
+      <processingTime>0.777777777777778</processingTime>
+    </process>
+  </processList>
+  <totalProcessingTime>69.9027777777778</totalProcessingTime>
+</function>

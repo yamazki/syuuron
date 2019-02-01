@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>4G</name>
+  <type>遠距離高速通信</type>
+  <distance>約5km</distance>
+  <frequency>5GHz</frequency>
+  <speed>75Mbps~150Mbps</speed>
+  <roaming>True</roaming>
+  <topology>スター</topology>
+  <connections>100</connections>      
+  <powersaving>1</powersaving>
+  <remarks>基地局と通信する</remarks>  
+</communication>

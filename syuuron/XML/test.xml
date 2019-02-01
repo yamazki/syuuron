@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<function>
+  <functionname>温度データ保存機能</functionname>
+  <processlist>
+    <process>
+      <name>温度データ取得処理</name>
+      <processingtime>0.1</processingtime>
+    </process>
+    <process>
+      <name>温度データ整形処理</name>
+      <processingtime>40</processingtime>
+    </process>
+    <process>
+      <name>LPWA</name>
+      <processingtime>1.1</processingtime>
+    </process>
+    <process>
+      <name>LTE</name>
+      <processingtime>0.2</processingtime>
+    </process>
+    <process>
+      <name>温度データ保存処理</name>
+      <processingtime>0.111111111111111</processingtime>
+    </process>
+  </processlist>
+  <totalprocessingtime>41.5111111111111</totalprocessingtime>
+</function>

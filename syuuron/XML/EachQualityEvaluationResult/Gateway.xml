@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<device>
+  <deviceName>gateway</deviceName>
+  <confidentiality>2.5</confidentiality>
+  <recovery>4.66666666666667</recovery>
+  <maintainability>3</maintainability>
+  <modularity>5</modularity>
+</device>

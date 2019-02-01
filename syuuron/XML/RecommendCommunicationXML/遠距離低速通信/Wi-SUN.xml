@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<communication>
+  <name>Wi-SUN(IEEE802.11ah)</name>
+  <type>遠距離低速通信</type>
+  <distance>最大1km</distance>
+  <frequency>920MHz</frequency>
+  <speed>40kbps</speed>
+  <roaming>True</roaming>
+  <topology>メッシュ</topology>
+  <connections>8000</connections>      
+  <powersaving>5</powersaving>
+  <remarks></remarks>  
+</communication>

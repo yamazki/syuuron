@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<function>
+  <functionName>温度データ取得・保存機能</functionName>
+  <processList>
+    <process>
+      <name>温度データ取得処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+    <process>
+      <name>温度データ整形処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+    <process>
+      <name>通信1</name>
+      <processingTime>4E-05</processingTime>
+      <communication>True</communication>
+      <movement>False</movement>
+    </process>
+    <process>
+      <name>有線通信1</name>
+      <processingTime>4E-05</processingTime>
+      <communication>True</communication>
+      <movement>True</movement>
+    </process>
+    <process>
+      <name>熱中症判定処理</name>
+      <processingTime>0</processingTime>
+      <communication>False</communication>
+    </process>
+  </processList>
+  <totalProcessingTime>8E-05</totalProcessingTime>
+</function>
